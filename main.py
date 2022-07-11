@@ -2,7 +2,8 @@
 
 go=["scissors", "rock", "paper"]
 po= ["R", "S", "P"]
-print("\n\n ARE YOU READY TO PLAY SOME ROCK PAPER SCISSORS")
+
+print("\n\n READY TO PLAY  ROCK PAPER SCISSORS")
 
 while True:
   import random
